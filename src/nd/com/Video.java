@@ -1,3 +1,5 @@
+package nd.com;
+
 import javax.persistence.*;
 
 /**
